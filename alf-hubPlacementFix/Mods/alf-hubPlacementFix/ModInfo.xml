@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Alphado - Hub Placement Fix" />
+		<Description value="Try smaller hub if Larger one can&apos;t spawn in" />
+		<Author value="Alphado-Jaki" />
+		<Version value="0.1.0" />
+		<Website value="" />
+	</ModInfo>
+</xml>
